@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container1 {
+  border-style: solid;
+  border-width: 1px;
+  width: 40%;
+  height: 600px;
+  margin: 30px;
+  text-align: center;
+}
+
+.top {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.bottom {
+  margin-top: 39.2%;
+  border-style: solid;
+  border-width: 1px;
+}
+
+p {
+  margin-top: 50%;
+}
+
+.container2 {
+  border-style: solid;
+  border-width: 1px;
+  width: 40%;
+  height: 600px;
+  text-align: center;
+}

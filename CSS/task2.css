@@ -1,0 +1,31 @@
+.container1 {
+  background-color: black;
+  color: white;
+  width: 30%;
+  height: 200px;
+  text-align: center;
+}
+
+body {
+  height: 100vh;
+}
+
+.container2 {
+  background-color: black;
+  color: white;
+  width: 30%;
+  position: absolute;
+  margin-top: 1rem;
+  left: 500px;
+  height: 200px;
+}
+
+.container3 {
+  background-color: black;
+  color: white;
+  width: 30%;
+  top: 450px;
+  position: absolute;
+  left: 1000px;
+  height: 200px;
+}

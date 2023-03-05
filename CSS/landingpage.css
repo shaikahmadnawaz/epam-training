@@ -1,0 +1,35 @@
+header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  margin-left: 0px;
+}
+
+.nav-links {
+  display: flex;
+}
+
+li {
+  list-style-type: none;
+  margin: 20px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+article {
+  height: 100vh;
+}
+
+.middle-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
